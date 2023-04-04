@@ -42,10 +42,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratyendu&show_icons=true&locale=en" alt="pratyendu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratyendu&" alt="pratyendu" /></p>
-### ✍️ Random Dev Quote
-(https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-### 😂 Random Dev Meme
+### 😂 
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
